@@ -1,6 +1,5 @@
 <h1> 🏬 Vrinda Sales Data Analysis Project </h1>
-<br>
-<h2> 📌 Objective </h2>
+<h2> 🟦 Objective </h2>
 Vrinda store aims to create a comprehensive annual sales report for 2022. This will enable them to better understand their customer base and strategically boost sales in 2023.
 <hr>
 <h2> 🟦 Workflow </h2>
@@ -34,7 +33,7 @@ Vrinda store aims to create a comprehensive annual sales report for 2022. This w
   <li> Use the insights for proactive marketing strategies. </li>
 </ul>
 <hr>
-<h2> 📌 Sample Insights </h2>
+<h2> 🟦 Sample Insights </h2>
 <ul>
   <li> Women are ~65% more likely to buy than men. </li>
   <li> Maharashtra, Karnataka, and Uttar Pradesh account for ~35% of sales. </li>
@@ -42,5 +41,6 @@ Vrinda store aims to create a comprehensive annual sales report for 2022. This w
   <li> Online channels (Amazon, Flipkart, Myntra) drive ~80% of sales. </li>
 </ul>
 <hr>
-<h2> 📌 Conclusion </h2>
-Focus marketing efforts on women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh by promoting offers on Amazon, Flipkart, and Myntra.
+<h2> 🟦 Conclusion </h2>
+Focus marketing efforts on women aged 30–49 yrs in Maharashtra, Karnataka, and Uttar Pradesh by promoting offers on Amazon, Flipkart, and Myntra.
+
